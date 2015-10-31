@@ -1,4 +1,20 @@
 (function () {
+
+  var optionDisqus = window.optionDisqus = {
+    path: '',
+    title: ''
+  };
+  var initDisqus = window.initDisqus = function () {
+    ('DISQUS' in window) && DISQUS.reset({
+      reload: true,
+      config: function () {
+        this.page.identifier = 'arrowrowe.github.io/#!' + optionDisqus.path;
+        this.page.url = window.location.href;
+        this.page.title = optionDisqus.title;
+      }
+    });
+  };
+
   Vue.filter('marked', marked);
   var router = new VueRouter();
   router.map({
@@ -16,16 +32,10 @@
     $.get(transition.to.path.substr(1) + '.md', function (content) {
       router.app.content = content;
       Vue.nextTick(function () {
-        var title = $('h1').text();
-        document.title = title + ' | arrowrowe';
-        ('DISQUS' in window) && DISQUS.reset({
-          reload: true,
-          config: function () {
-            this.page.identifier = 'arrowrowe.github.io/#!' + transition.to.path;
-            this.page.url = window.location.href;
-            this.page.title = title;
-          }
-        });
+        optionDisqus.path = transition.to.path;
+        optionDisqus.title = $('h1').text();
+        document.title = optionDisqus.title + ' | arrowrowe';
+        initDisqus();
       });
     });
   });
@@ -42,4 +52,5 @@
       };
     }
   }), '.wrap');
+
 })();
