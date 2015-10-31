@@ -8,5 +8,5 @@ npm-debug.log*
 
 # Builded files
 linked.json
-index.html
+/index.html
 /dist
