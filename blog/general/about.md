@@ -66,7 +66,7 @@ Contact me with [arrowrowe@gmail.com](mailto:arrowrowe@gmail.com) or us with [do
 
 This single page website is based on
   [GitHub Pages](https://pages.github.com/) (repo: [arrowrowe/arrowrowe.github.io](https://github.com/arrowrowe/arrowrowe.github.io)),
-  [Disqus](https://disqus.com/) for comments (not available currently)
+  [Disqus](https://disqus.com/) for comments
   and [Cloudinary](https://cloudinary.com/) for images.
   Frontend built with
     [Vue.js](http://vuejs.org/),

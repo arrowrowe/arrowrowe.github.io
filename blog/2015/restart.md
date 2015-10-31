@@ -13,4 +13,8 @@
 - [index.js](https://github.com/arrowrowe/arrowrowe.github.io/blob/dev/assets/index.js),
 - [index.scss](https://github.com/arrowrowe/arrowrowe.github.io/blob/dev/assets/index.scss).
 
-原先的文章都清零了, Disqus 的评论也没加, 暂时先这样了......
+原先的文章都清零了,
+~~Disqus 的评论也没加,~~ 重新加了 Disqus,
+暂时先这样了......
+
+2015.10.31

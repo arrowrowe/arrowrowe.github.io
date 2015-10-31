@@ -67,7 +67,7 @@
 
 这个单页博客是
   基于 [GitHub Pages](https://pages.github.com/) (repo: [arrowrowe/arrowrowe.github.io](https://github.com/arrowrowe/arrowrowe.github.io)) 的,
-  评论用 [Disqus](https://disqus.com/) (暂未打开),
+  评论用 [Disqus](https://disqus.com/),
   图片用 [Cloudinary](https://cloudinary.com/).
   前端用
     [Vue.js](http://vuejs.org/),
