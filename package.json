@@ -1,0 +1,32 @@
+{
+  "name": "arrowrowe.github.io",
+  "version": "0.0.1",
+  "description": "Something about arrowrowe.",
+  "scripts": {
+    "test": "eslint .",
+    "build": "gulp build",
+    "watch": "gulp watch"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "arrowrowe <arrowrowe@gmail.com> (https://github.com/arrowrowe)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arrowrowe/arrowrowe.github.io.git"
+  },
+  "devDependencies": {
+    "eslint": "1.8.0",
+    "fs-extra": "0.26.0",
+    "gulp": "3.9.0",
+    "gulp-replace": "0.5.4",
+    "jquery": "2.1.4",
+    "marked": "0.3.5",
+    "normalize.css": "3.0.3",
+    "tam": "0.4.0",
+    "tam-html": "0.2.0",
+    "vue": "1.0.3",
+    "vue-router": "0.7.5"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "src": "assets",
+  "dist": "dist",
+  "www": "./",
+  "linked": "linked.json",
+  "option": {
+    "mode": ["compress", 2],
+    "hash": [8, 2]
+  },
+  "plugins": {
+    "tam-html": {
+      "src": ["./src/index.html"],
+      "dest": "./"
+    }
+  },
+  "packages": {
+    "normalize": {
+      "src": "../node_modules/normalize.css",
+      "files": ["normalize.css"]
+    },
+    "modules": {
+      "option": {"mode": ["copy", 10]},
+      "src": "../node_modules/",
+      "files": [
+        "jquery/dist/jquery.min.js",
+        "marked/marked.min.js",
+        "vue/dist/vue.min.js",
+        "vue-router/dist/vue-router.min.js"
+      ]
+    },
+    "index": {
+      "dependencies": [
+        "normalize",
+        "modules"
+      ],
+      "src": ".",
+      "files": [
+        "index.scss",
+        "index.js"
+      ]
+    }
+  }
+}
