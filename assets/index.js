@@ -16,7 +16,16 @@
     $.get(transition.to.path.substr(1) + '.md', function (content) {
       router.app.content = content;
       Vue.nextTick(function () {
-        document.title = $('h1').text() + ' | arrowrowe';
+        var title = $('h1').text();
+        document.title = title + ' | arrowrowe';
+        ('DISQUS' in window) && DISQUS.reset({
+          reload: true,
+          config: function () {
+            this.page.identifier = 'arrowrowe.github.io/#!' + transition.to.path;
+            this.page.url = window.location.href;
+            this.page.title = title;
+          }
+        });
       });
     });
   });
