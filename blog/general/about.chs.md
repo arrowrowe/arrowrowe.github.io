@@ -42,6 +42,7 @@
     SwitchyOmega
     等插件),
   GMail,
+  Mailgun,
   Vagrant,
   Sublime,
   PhpStrom,
@@ -54,7 +55,7 @@
   以 Visual Basic 开始,
   2010 年完成一个基于 GDI+ 的横轴游戏和一个解释器后不再使用.
 2013 年 2 月被 SJTU 录取.
-  同年 9 月加入 dyWeb,
+同年 9 月加入 dyWeb,
   2014 年 6 月加入同去团队, 正式以 Web 开发为主要兴趣.
 
 喜欢[魔戒](http://zh.wikipedia.org/wiki/%E9%AD%94%E6%88%92), [冰火](http://zh.wikipedia.org/wiki/%E5%86%B0%E8%88%87%E7%81%AB%E4%B9%8B%E6%AD%8C), [基地][1]和[三体][2].
