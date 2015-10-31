@@ -11,6 +11,7 @@
     "jquery": true
   },
   "globals": {
+    "marked": true,
     "Vue": true,
     "VueRouter": true
   },
