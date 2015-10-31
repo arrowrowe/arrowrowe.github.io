@@ -11,8 +11,12 @@
       <li v-for="item in navItems"><a v-link="{path: item.path}" v-text="item.caption"></a></li>
     </ul>
   </nav>
-  <router-view></router-view>
+  <div class="container">
+    <router-view></router-view>
+    <div id="disqus_thread"></div>
+  </div>
 </div>
 <script src="@tam/index"></script>
+<script type="text/javascript" src="//arrowrowe.disqus.com/embed.js" async></script>
 </body>
 </html>

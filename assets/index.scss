@@ -35,8 +35,13 @@ a {
   text-decoration: none;
 }
 
+.container,
 article {
   width: 100%;
+}
+
+article {
+  min-height: 42em;
 }
 
 h1 {
