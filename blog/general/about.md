@@ -5,7 +5,9 @@ About
 
 <div style="display:flex;justify-content:space-between">
   <p>I'm a student at [SJTU](http://www.sjtu.edu.cn/), a member of [Dongyue Web Studio](http://dongyueweb.com/) ([dyWeb](https://github.com/dyWeb/)) working on [Tongqu.me](http://tongqu.me/) and other cool stuff.</p>
-  <img src="logo.png" style="width:48px;height:48px;">
+  <a href="https://github.com/arrowrowe">
+    <img src="logo.png" style="width:48px;height:48px;">
+  </a>
 </div>
 
 Enjoy techs of both frontend and backend, mainly about JavaScript (Angular mostly), PHP (CodeIgniter, Laravel and [Ilex](https://github.com/arrowrowe/ilex)). Familiar with Bootstrap and Foundation. Able to complete a Laravel-Angular website together with [at15](https://github.com/at15) and [swaylq](https://github.com/swaylq). In fact we three completed [dyGroup](https://gitcafe.com/arrowrowe/dyGroup) (a teamwork platform) within 24 hours in [hackShanghai](http://www.hackshanghai.com/), November 2014.

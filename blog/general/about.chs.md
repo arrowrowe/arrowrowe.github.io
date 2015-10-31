@@ -5,7 +5,9 @@
 
 <div style="display:flex;justify-content:space-between">
   <p>[SJTU](http://www.sjtu.edu.cn/) 本科在读, [东岳网络工作室](http://dongyueweb.com/) ([dyWeb](https://github.com/dyWeb/)) 成员, [同去网](http://tongqu.me/) 开发维护团队成员.</p>
-  <img src="logo.png" style="width:48px;height:48px;">
+  <a href="https://github.com/arrowrowe">
+    <img src="logo.png" style="width:48px;height:48px;">
+  </a>
 </div>
 
 前后端技能包括 JavaScript (常用 Angular), PHP (CodeIgniter, Laravel 和 [Ilex](https://github.com/arrowrowe/ilex)). 常用 Bootstrap 和 Foundation. 与 [at15](https://github.com/at15) 和 [swaylq](https://github.com/swaylq) 长期协作, 2014 年 11 月 [hackShanghai](http://www.hackshanghai.com/) 期间曾在 24 小时内完成 [dyGroup](https://gitcafe.com/arrowrowe/dyGroup) (一个团队协作平台).
