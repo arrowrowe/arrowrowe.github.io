@@ -19,6 +19,7 @@
 作品包括:
 - [Tam](https://github.com/arrowrowe/tam) (前端资源管理工具), 配套的 [TamHTML](https://github.com/arrowrowe/tam-html),
 - [fi-calc](https://github.com/arrowrowe/fi-calc) (金融计算的 SPM 组件),
+- [GitHub Relationship](https://github.com/arrowrowe/github-relationship) (GitHub 关系图的多语言实现, 含 JavaScript, Mathematica, Python, Scala),
 - [Ilex](https://github.com/arrowrowe/ilex) (简易 PHP 框架),
 - [XML Stream](https://github.com/arrowrowe/xml_stream) (一个 Python XML 解析器),
 - [一份 Python 五子棋 AI](https://github.com/arrowrowe/gomoku).

@@ -19,6 +19,7 @@ Able to complete a Laravel-Angular website together with [at15](https://github.c
 Works include
 - [Tam](https://github.com/arrowrowe/tam) (frontend static assets manager) and [TamHTML](https://github.com/arrowrowe/tam-html),
 - [fi-calc](https://github.com/arrowrowe/fi-calc) (a SPM package for financial calculation),
+- [GitHub Relationship](https://github.com/arrowrowe/github-relationship) (visualize GitHub relationship in JavaScript, Mathematica, Python, Scala),
 - [Ilex](https://github.com/arrowrowe/ilex) (a simple PHP framework),
 - [XML Stream](https://github.com/arrowrowe/xml_stream) (a Python XML parser with stream i/o),
 - [a python Gomoku AI](https://github.com/arrowrowe/gomoku)
