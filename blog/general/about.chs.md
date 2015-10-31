@@ -22,7 +22,7 @@
 
 ---
 
-这个单页博客是基于 [GitHub Pages](https://pages.github.com/) (repo: [arrowrowe/arrowrowe.github.io](https://github.com/arrowrowe/arrowrowe.github.io)) 的, 评论用 [Disqus](https://disqus.com/), 图片用 [Cloudinary](https://cloudinary.com/). 前端用 [Foundation](http://foundation.zurb.com/) ([Sass](http://sass-lang.com/)) 和 [jQuery](https://github.com/jquery/jquery). 文章为 Markdown 格式 ([chjj/marked](https://github.com/chjj/marked) 渲染), 其中代码由 [highlight.js](https://highlightjs.org/) 高亮. 整体风格模仿 [Yihui.name](http://yihui.name/). 感谢以上 :p
+这个单页博客是基于 [GitHub Pages](https://pages.github.com/) (repo: [arrowrowe/arrowrowe.github.io](https://github.com/arrowrowe/arrowrowe.github.io)) 的, 评论用 [Disqus](https://disqus.com/) (暂未打开), 图片用 [Cloudinary](https://cloudinary.com/). 前端用 [Vue.js](http://vuejs.org/), [jQuery](https://github.com/jquery/jquery) 和 [Sass](http://sass-lang.com/). 文章为 Markdown 格式 ([chjj/marked](https://github.com/chjj/marked) 渲染). 整体风格模仿 [Yihui.name](http://yihui.name/). 感谢以上 :p
 
 
 [1]: http://zh.wikipedia.org/wiki/%E5%9F%BA%E5%9C%B0_(%E5%B0%8F%E8%AA%AA)

@@ -22,7 +22,7 @@ Contact me with [arrowrowe@gmail.com](mailto:arrowrowe@gmail.com) or us with [do
 
 ---
 
-This single page website is based on [GitHub Pages](https://pages.github.com/) (repo: [arrowrowe/arrowrowe.github.io](https://github.com/arrowrowe/arrowrowe.github.io)), [Disqus](https://disqus.com/) for comments and [Cloudinary](https://cloudinary.com/) for images. Frontend built with [Foundation](http://foundation.zurb.com/) ([Sass](http://sass-lang.com/)) and [jQuery](https://github.com/jquery/jquery). Articles wirtten as Markdown (displayed using [chjj/marked](https://github.com/chjj/marked)), with code highlighted by [highlight.js](https://highlightjs.org/). Style is borrowed from [Yihui.name](http://yihui.name/). Thanks a lot :p
+This single page website is based on [GitHub Pages](https://pages.github.com/) (repo: [arrowrowe/arrowrowe.github.io](https://github.com/arrowrowe/arrowrowe.github.io)), [Disqus](https://disqus.com/) for comments (not available currently) and [Cloudinary](https://cloudinary.com/) for images. Frontend built with [Vue.js](http://vuejs.org/), [jQuery](https://github.com/jquery/jquery) and ([Sass](http://sass-lang.com/)). Articles wirtten as Markdown (displayed using [chjj/marked](https://github.com/chjj/marked)). Style is borrowed from [Yihui.name](http://yihui.name/). Thanks a lot :p
 
 
 [1]: http://en.wikipedia.org/wiki/Foundation_(Isaac_Asimov_novel)
