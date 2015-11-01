@@ -20,6 +20,7 @@ dyTopic: Git - Getting Started
 A distributed version control system developed by Junio Hamano and Linus Torvalds.
 
 > I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'Git'.
+
 > -- Linus Torvalds
 
 ### A Short History of Git with Linux
