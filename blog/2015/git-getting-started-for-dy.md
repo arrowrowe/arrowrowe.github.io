@@ -3,7 +3,7 @@ dyTopic: Git - Getting Started
 
 [Slides](http://arrowrowe.me/slides/git-getting-started-for-dy.html)
 
-(This is a dyTopic by [arrowrowe](https://github.com/arrowrowe) of [dyWeb](https://github.com/dyweb/), 2015/03/29 19:30.)
+(This is a [dyTopic](#!/blog/2015/dy-topic) by [arrowrowe](https://github.com/arrowrowe) of [dyWeb](https://github.com/dyweb/), 2015/03/29 19:30.)
 
 ## Materials
 
