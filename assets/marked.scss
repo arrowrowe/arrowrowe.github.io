@@ -1,6 +1,12 @@
-blockquote {
-  margin: 0;
-  padding-left: 1em;
-  border-left: 4px solid #ddd;
-  color: #777;
+article {
+  blockquote {
+    margin: 0;
+    padding-left: 1em;
+    border-left: 4px solid #ddd;
+    color: #777;
+  }
+
+  li {
+    line-height: 1.4em
+  }
 }
