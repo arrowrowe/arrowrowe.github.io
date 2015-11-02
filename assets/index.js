@@ -46,7 +46,8 @@
           {caption: 'Home', path: '/home'},
           {caption: 'About', path: '/about'},
           {caption: 'Archive', path: '/archive'},
-          {caption: 'Tags', path: '/tags'}
+          {caption: 'Tags', path: '/tags'},
+          {caption: 'Links', path: '/links'}
         ],
         content: ''
       };
