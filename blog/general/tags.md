@@ -1,6 +1,10 @@
 Tags
 ===
 
+### Atom
+
+- Nov 07, [Awesome Atom Packages and More](#!/blog/2015/awesome-atom-packages-and-more)
+
 ### Daily
 
 - Oct 31, [重启](#!/blog/2015/restart)
@@ -17,4 +21,3 @@ Tags
 ### RSS
 
 - May 02, [RSS 清单](#!/blog/2015/my-rss-subscriptions)
-
