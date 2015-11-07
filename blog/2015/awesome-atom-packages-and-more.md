@@ -5,7 +5,7 @@ Awesome Atom Packages and More
 > and other command-line tools and libraries for web developers using text editors.
 
 <p style="text-align:center;background-color:#5fb57d">
-  [![atom](https://avatars0.githubusercontent.com/u/1089146)](https://github.com/atom)
+  [![atom](https://avatars0.githubusercontent.com/u/1089146)](https://atom.io/)
 </p>
 
 ## Awesome Atom Packages
