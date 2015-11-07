@@ -8,6 +8,7 @@ RSS 清单
 - News
   - [Echo JS](http://www.echojs.com/) ([feed](http://www.echojs.com/rss))
   - [Daily JavaScript](http://daily-javascript.com/) ([feed](http://daily-javascript.com/atom.xml))
+  - [Smashing Magazine](http://www.smashingmagazine.com/) ([feed](http://www.smashingmagazine.com/feed/))
   - [博客 - 伯乐在线](http://blog.jobbole.com/) ([feed](http://blog.jobbole.com/feed/))
 - 个人博客
   - [风の愿](https://breeswish.org/blog) ([feed](https://breeswish.org/blog/feed))
