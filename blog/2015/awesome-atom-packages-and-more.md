@@ -2,7 +2,7 @@ Awesome Atom Packages and More
 ===
 
 > Awesome [Atom](https://atom.io/) packages,
-> and other command-line tools or libraries for web developers using text editors.
+> and other command-line tools and libraries for web developers using text editors.
 
 ## Awesome Atom Packages
 
@@ -34,7 +34,7 @@ Awesome Atom Packages and More
 
 - [Advanced-new-file](https://atom.io/packages/advanced-new-file) and [Advanced-open-file](https://atom.io/packages/advanced-open-file): I prefer `atom some/existing/file/or/new/file` through command-line, but you may like them.
 - [Toggle-quotes](https://atom.io/packages/toggle-quotes): It's very useful for me...... It even auto changes `'"'` to `"\""`......
-- [Travis-CI-Status](https://atom.io/packages/travis-ci-status): In most case I use pre-commit hook to avoid pushing untested code, so I don't need a package to remind me of my Travis Status. But you may like this.
+- [Travis-CI-Status](https://atom.io/packages/travis-ci-status): In most case I use pre-commit hooks to avoid pushing untested code, so I don't need a package to remind me of my Travis status. But you may like this.
 - [Save-session](https://atom.io/packages/save-session): for Atom 1.1.0, unsaved changes in named tabs survive a `Don't save` close, but unnamed tabs fail. You may need this.
 - [Imdone-Atom](https://atom.io/packages/imdone-atom): A task-board for TODOs, FIXMEs, HACKs, etc in your code.
 - [Merge-conflicts](https://atom.io/packages/merge-conflicts): To be honest, I haven't met conflicts for some time... But this seems cool.
