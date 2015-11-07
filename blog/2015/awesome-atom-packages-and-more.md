@@ -38,3 +38,4 @@ Awesome Atom Packages and More
 - [Save-session](https://atom.io/packages/save-session): for Atom 1.1.0, unsaved changes in named tabs survive a `Don't save` close, but unnamed tabs fail. You may need this.
 - [Imdone-Atom](https://atom.io/packages/imdone-atom): A task-board for TODOs, FIXMEs, HACKs, etc in your code.
 - [Merge-conflicts](https://atom.io/packages/merge-conflicts): To be honest, I haven't met conflicts for some time... But this seems cool.
+- [File-icons](https://atom.io/packages/file-icons): Assign file extension icons and colours for improved visual grepping.
