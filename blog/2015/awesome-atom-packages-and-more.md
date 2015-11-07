@@ -37,3 +37,4 @@ Awesome Atom Packages and More
 - [Travis-CI-Status](https://atom.io/packages/travis-ci-status): In most case I use pre-commit hook to avoid pushing untested code, so I don't need a package to remind me of my Travis Status. But you may like this.
 - [Save-session](https://atom.io/packages/save-session): for Atom 1.1.0, unsaved changes in named tabs survive a `Don't save` close, but unnamed tabs fail. You may need this.
 - [Imdone-Atom](https://atom.io/packages/imdone-atom): A task-board for TODOs, FIXMEs, HACKs, etc in your code.
+- [Merge-conflicts](https://atom.io/packages/merge-conflicts): To be honest, I haven't met conflicts for some time... But this seems cool.
