@@ -35,8 +35,6 @@
       ],
       "src": ".",
       "files": [
-        "github-corner.scss",
-        "marked.scss",
         "index.scss",
         "index.js"
       ]
