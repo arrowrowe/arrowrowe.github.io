@@ -12,4 +12,5 @@ dyTopic: Git - Getting Started
     - [Visual Git Cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html)
     - [GitHub Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 - Practices
+    - [Learn Git and GitHub | wheelhouse](http://www.wheelhouse.io/learn-github/), an awesome tutorial integrated with GitHub.
     - [learnGitBranching](http://pcottle.github.io/learnGitBranching/), all problems recommended.
