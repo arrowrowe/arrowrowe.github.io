@@ -73,6 +73,7 @@ This single page website is based on
     [jQuery](https://github.com/jquery/jquery)
     and ([Sass](http://sass-lang.com/)).
   Articles wirtten as Markdown (displayed using [chjj/marked](https://github.com/chjj/marked)).
+  Feed supported by [the NPM package RSS](https://www.npmjs.com/package/rss).
   Style is borrowed from [Yihui.name](http://yihui.name/).
 Thanks a lot :p
 

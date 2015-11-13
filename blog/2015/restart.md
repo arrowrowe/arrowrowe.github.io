@@ -1,6 +1,12 @@
 重启
 ===
 
+2015/11/13 更新:
+  用 [NPM 的包 RSS](https://www.npmjs.com/package/rss) 实现了 RSS 订阅...
+  参见 [gulpfile.js](https://github.com/arrowrowe/arrowrowe.github.io/blob/dev/gulpfile.js).
+
+---
+
 完全重写了一遍这个博客...
 
 原先用改造过的 [Foundation](http://foundation.zurb.com/) 和自己折腾的前端路由, 没有静态资源管理;
@@ -17,4 +23,4 @@
 ~~Disqus 的评论也没加,~~ 重新加了 Disqus,
 暂时先这样了......
 
-2015.10.31
+2015/10/31
