@@ -5,7 +5,8 @@
   "scripts": {
     "test": "eslint .",
     "build": "gulp build",
-    "watch": "gulp watch"
+    "watch": "gulp watch",
+    "publish": "gulp publish"
   },
   "keywords": [
     "blog"
@@ -24,6 +25,7 @@
     "jquery": "2.1.4",
     "marked": "0.3.5",
     "normalize.css": "3.0.3",
+    "rss": "1.2.1",
     "tam": "~0.4",
     "tam-html": "0.2.0",
     "vue": "1.0.3",

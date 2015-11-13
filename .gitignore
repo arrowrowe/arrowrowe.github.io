@@ -7,6 +7,7 @@ npm-debug.log*
 /node_modules
 
 # Builded files
-linked.json
+/linked.json
 /index.html
 /dist
+/feed
