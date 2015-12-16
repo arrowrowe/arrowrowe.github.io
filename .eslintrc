@@ -13,7 +13,8 @@
   "globals": {
     "marked": true,
     "Vue": true,
-    "VueRouter": true
+    "VueRouter": true,
+    "DISQUS": true
   },
   "extends": "eslint:recommended"
 }

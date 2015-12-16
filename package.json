@@ -18,8 +18,8 @@
     "url": "https://github.com/arrowrowe/arrowrowe.github.io.git"
   },
   "devDependencies": {
-    "eslint": "1.8.0",
-    "fs-extra": "0.26.0",
+    "eslint": "1.10.3",
+    "fs-extra": "0.26.2",
     "gulp": "3.9.0",
     "gulp-replace": "0.5.4",
     "jquery": "2.1.4",
@@ -28,7 +28,7 @@
     "rss": "1.2.1",
     "tam": "~0.4",
     "tam-html": "0.2.0",
-    "vue": "1.0.3",
-    "vue-router": "0.7.5"
+    "vue": "1.0.11",
+    "vue-router": "0.7.7"
   }
 }
