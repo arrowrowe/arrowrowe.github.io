@@ -4,6 +4,7 @@ All, [中文](#!/archive.chs), [English](#!/archive.en)
 
 ### 2015
 
+- 2015/12/29, [Lab 1 - Distributed Systems (6.824)](#!/blog/2015/6.824-lab-1): MIT 分布式系统 Lab 1 记录.
 - 2015/11/07, [Awesome Atom Packages and More](#!/blog/2015/awesome-atom-packages-and-more): Atom packages recommended for developers.
 - 2015/10/31, [重启](#!/blog/2015/restart): 重新实现了一遍博(markdown)客(previewer)...
 - 2015/05/02, [RSS 清单](#!/blog/2015/my-rss-subscriptions): 不定期更新.
