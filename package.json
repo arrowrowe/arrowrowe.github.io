@@ -1,5 +1,6 @@
 {
   "name": "arrowrowe.github.io",
+  "private": true,
   "version": "0.0.1",
   "description": "Something about arrowrowe.",
   "scripts": {
