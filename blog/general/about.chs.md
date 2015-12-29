@@ -73,7 +73,7 @@
     [Vue.js](http://vuejs.org/),
     [jQuery](https://github.com/jquery/jquery)
     和 [Sass](http://sass-lang.com/).
-  文章为 Markdown 格式 ([chjj/marked](https://github.com/chjj/marked) 渲染).
+  文章为 Markdown 格式 ([chjj/marked](https://github.com/chjj/marked) 渲染, [ccampbell/rainbow](https://github.com/ccampbell/rainbow) 高亮).
   RSS 订阅基于 [NPM 的 RSS 包](https://www.npmjs.com/package/rss) 实现.
   整体风格模仿 [Yihui.name](http://yihui.name/).
 感谢以上 :p
