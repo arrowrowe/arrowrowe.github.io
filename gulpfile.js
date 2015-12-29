@@ -8,7 +8,7 @@ var tam = require('tam');
 var tamHTML = require('tam-html');
 var assetsPath = './assets.json';
 
-gulp.task('clean', function () { fs.removeSync(fs.readJsonSync(assetsPath).dist); });
+gulp.task('clean', function () { fs.removeSync(tam.read(assetsPath).dist); });
 
 gulp.task('build', ['clean'], function () {
   tam.run();

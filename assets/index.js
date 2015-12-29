@@ -1,5 +1,7 @@
 (function () {
 
+  'use strict';
+
   var optionDisqus = window.optionDisqus = {
     path: '',
     title: ''
@@ -15,12 +17,19 @@
     });
   };
 
-  Vue.filter('marked', marked);
+
+  marked.setOptions({
+    highlight: function (code, lang, callback) {
+      Rainbow.color(code, lang, function (highlighted_code) {
+        callback(null, highlighted_code);
+      });
+    }
+  });
   var router = new VueRouter();
   router.map({
     '/blog/*article': {
       component: {
-        template: '<article v-html="$parent.content | marked"></article>'
+        template: '<article v-html="$parent.content"></article>'
       }
     }
   });
@@ -29,7 +38,7 @@
     '/:nav': '/blog/general/:nav'
   });
   router.afterEach(function (transition) {
-    $.get(transition.to.path.substr(1) + '.md', function (content) {
+    $.get(transition.to.path.substr(1) + '.md', function (raw) { marked(raw, function (err, content) {
       router.app.content = content;
       Vue.nextTick(function () {
         optionDisqus.path = transition.to.path;
@@ -37,7 +46,7 @@
         document.title = optionDisqus.title + ' | arrowrowe';
         initDisqus();
       });
-    });
+    }); });
   });
   router.start(Vue.extend({
     data: function () {
