@@ -2,6 +2,10 @@ Archive
 ===
 All, [中文](#!/archive.chs), [English](#!/archive.en)
 
+### 2016
+
+- 2016/01/03, [深入浅出ES6](#!/blog/2016/es6-in-depth): 电子书发布了~
+
 ### 2015
 
 - 2015/12/29, [Lab 1 - Distributed Systems (6.824)](#!/blog/2015/6.824-lab-1): MIT 分布式系统 Lab 1 记录.

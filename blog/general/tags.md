@@ -22,6 +22,10 @@ Tags
 
 - 2015/12/29, [Lab 1 - Distributed Systems (6.824)](#!/blog/2015/6.824-lab-1)
 
+### JavaScript
+
+- 2016/01/03, [深入浅出ES6](#!/blog/2016/es6-in-depth)
+
 ### RSS
 
 - 2015/05/02, [RSS 清单](#!/blog/2015/my-rss-subscriptions)
