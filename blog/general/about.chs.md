@@ -15,9 +15,10 @@
   PHP (CodeIgniter, Laravel 和 [Ilex](https://github.com/arrowrowe/ilex)).
 曾常用 Bootstrap 和 Foundation.
 与 [at15](https://github.com/at15) 和 [swaylq](https://github.com/swaylq) 长期协作, 2014 年 11 月 [hackShanghai](http://www.hackshanghai.com/) 期间曾在 24 小时内完成 [dyGroup](https://gitcafe.com/arrowrowe/dyGroup) (一个团队协作平台).
+2015年暑期在支付宝任前端实习生, 花名午川.
 
 作品包括:
-- [Tam](https://github.com/arrowrowe/tam) (前端资源管理工具), 配套的 [TamHTML](https://github.com/arrowrowe/tam-html),
+- [Tam](https://github.com/arrowrowe/tam) (前端资源管理工具), 及配套的 [gulpTam](https://github.com/arrowrowe/gulp-tam) 和 [TamHTML](https://github.com/arrowrowe/tam-html),
 - [fi-calc](https://github.com/arrowrowe/fi-calc) (金融计算的 SPM 组件),
 - [GitHub Relationship](https://github.com/arrowrowe/github-relationship) (GitHub 关系图的多语言实现, 含 JavaScript, Mathematica, Python, Scala),
 - [Ilex](https://github.com/arrowrowe/ilex) (简易 PHP 框架),

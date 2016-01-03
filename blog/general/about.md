@@ -15,9 +15,10 @@ Enjoy techs of both frontend and backend, mainly about
   PHP (CodeIgniter, Laravel and [Ilex](https://github.com/arrowrowe/ilex)).
 Familiar with Bootstrap and Foundation.
 Able to complete a Laravel-Angular website together with [at15](https://github.com/at15) and [swaylq](https://github.com/swaylq). In fact we three completed [dyGroup](https://gitcafe.com/arrowrowe/dyGroup) (a teamwork platform) within 24 hours in [hackShanghai](http://www.hackshanghai.com/), November 2014.
+Front-end intern for Alipay in summer, 2015.
 
 Works include
-- [Tam](https://github.com/arrowrowe/tam) (frontend static assets manager) and [TamHTML](https://github.com/arrowrowe/tam-html),
+- [Tam](https://github.com/arrowrowe/tam) (frontend static assets manager), [gulpTam](https://github.com/arrowrowe/gulp-tam) and [TamHTML](https://github.com/arrowrowe/tam-html),
 - [fi-calc](https://github.com/arrowrowe/fi-calc) (a SPM package for financial calculation),
 - [GitHub Relationship](https://github.com/arrowrowe/github-relationship) (visualize GitHub relationship in JavaScript, Mathematica, Python, Scala),
 - [Ilex](https://github.com/arrowrowe/ilex) (a simple PHP framework),
