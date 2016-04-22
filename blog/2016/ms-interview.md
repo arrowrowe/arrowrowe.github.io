@@ -21,6 +21,8 @@
 
 ~~所以到底怎么满分啊 orz...~~
 
+~~听说要用 trie... 有空再改.........~~
+
 ## C. Demo Day
 
 > [Demo Day](http://hihocoder.com/contest/mstest2016april1/problem/3), 通过率 26% = 428 / 1602.
