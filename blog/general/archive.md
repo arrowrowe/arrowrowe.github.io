@@ -4,6 +4,7 @@ All, [中文](#!/archive.chs), [English](#!/archive.en)
 
 ### 2016
 
+- 2016/04/22, [微软 2016 年 4 月笔试报告](#!/blog/2016/ms-interview): orz...
 - 2016/01/03, [深入浅出ES6](#!/blog/2016/es6-in-depth): 电子书发布了~
 
 ### 2015

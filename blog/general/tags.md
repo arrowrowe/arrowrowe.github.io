@@ -1,6 +1,10 @@
 Tags
 ===
 
+### Algorithm
+
+- 2016/04/22, [微软 2016 年 4 月笔试报告](#!/blog/2016/ms-interview): orz...
+
 ### Atom
 
 - 2015/11/07, [Awesome Atom Packages and More](#!/blog/2015/awesome-atom-packages-and-more)
@@ -25,6 +29,10 @@ Tags
 ### JavaScript
 
 - 2016/01/03, [深入浅出ES6](#!/blog/2016/es6-in-depth)
+
+### Python
+
+- 2016/04/22, [微软 2016 年 4 月笔试报告](#!/blog/2016/ms-interview): orz...
 
 ### RSS
 
