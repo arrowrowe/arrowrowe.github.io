@@ -49,7 +49,7 @@
 > [Building in Sandbox](http://hihocoder.com/contest/mstest2016april1/problem/4), 通过率 5% = 24 / 458.
 > 源码在 [这里](https://github.com/arrowrowe/ms-2016-april-hiho/blob/master/d-building-in-sandbox/app.py).
 
-参考了 [](https://www.zhihu.com/question/42406890/answer/94388263), 这里复述一下:
+参考了 [可以从哪些思路做微软2017实习生笔试题最后一题？ - 夏洋的回答](https://www.zhihu.com/question/42406890/answer/94388263), 这里复述一下:
 - 第一遍直接把方块都摆好, 整个世界由方块和未标记的死块组成.
 - 从顶做一次 floodfill, 把与顶部连通的死块改为活块.
 - 然后倒过来检查, 一个个拆掉.
