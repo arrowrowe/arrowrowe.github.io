@@ -39,5 +39,5 @@
 </div>
 
 [es6-in-depth]: http://www.infoq.com/cn/minibooks/ES6-in-Depth
-[es6-in-depth-cover]: https://res.cloudinary.com/arrowrowe/image/upload/c_scale,w_360/v1451800957/es6-in-depth_dghjvx.png
+[es6-in-depth-cover]: https://res.cloudinary.com/arrowrowe/image/upload/c_scale,w_360/v1451800957/blog/es6-in-depth_dghjvx.png
 [es6-in-depth-series]: http://www.infoq.com/cn/es6-in-depth/
