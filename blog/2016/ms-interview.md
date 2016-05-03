@@ -23,6 +23,8 @@
 
 ~~听说要用 trie... 有空再改.........~~
 
+2016/05/03 更新: 贴个知乎问题: [微软2016校园招聘4月在线笔试第二题用 Python 没法使用前缀树（Trie tree）AC 吗？](http://www.zhihu.com/question/42700825).
+
 ## C. Demo Day
 
 > [Demo Day](http://hihocoder.com/contest/mstest2016april1/problem/3), 通过率 26% = 428 / 1602.
