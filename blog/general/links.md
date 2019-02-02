@@ -2,7 +2,7 @@ Links
 ===
 
 - News
-  - [dyWeb Weekly](https://github.com/dyweb/web-stuff/blob/master/weekly/)
+  - [Dev Comm Shanghai 联合周报](https://weekly.dongyueweb.com/)
 - Blogs
   - [Breezewish](https://breeswish.org/): 风の愿
   - [At15](http://at15.github.io/pvguo/)
