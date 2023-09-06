@@ -28,7 +28,7 @@
     "tam-html": "0.2.0"
   },
   "dependencies": {
-    "jquery": "2.1.4",
+    "jquery": "3.5.0",
     "marked": "0.3.9",
     "normalize.css": "3.0.3",
     "vue": "1.0.11",
